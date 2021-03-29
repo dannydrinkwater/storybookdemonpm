@@ -1,0 +1,32 @@
+.btn {
+  padding: 1rem 1.5rem;
+  cursor: pointer;
+  border: none;
+  background-color: #444;
+  color: #fff;
+}
+
+.btn:disabled {
+  opacity: 0.5;
+  cursor: auto;
+}
+
+.btn--primary {
+  background-color: #9e4646;
+}
+
+.btn--secondary {
+  background-color: #b4c489;
+}
+
+.btn--small {
+  padding: 0.75rem 1rem;
+}
+
+.btn--large {
+  padding: 1.5rem 2rem;
+}
+
+.btn--full {
+  width: 100%;
+}
