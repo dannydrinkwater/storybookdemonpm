@@ -1,6 +1,5 @@
 import './App.css';
 import Btn from './components/btn/btn.component';
-import Image from './components/image/image.component';
 
 function App() {
   return (
